@@ -1,0 +1,12 @@
+h1 {
+    font-family: sans-serif;
+    border-bottom: 1px solid lightgrey;
+}
+
+.profile {
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    float: left;
+    margin-right: 10px;
+}
